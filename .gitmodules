@@ -1,0 +1,6 @@
+[submodule "ProteinBERT_HL"]
+	path = ProteinBERT_HL
+	url = https://github.com/nadavbra/protein_bert.git
+[submodule "protein_bert"]
+	path = protein_bert
+	url = https://github.com/nadavbra/protein_bert.git
